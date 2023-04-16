@@ -2,7 +2,7 @@
 <h3 align="center">Hi, I'm Mateo called Alex (from friends) I'm a beginner programmer and I'm trying to learn, at least part of all languages, especially html.
 I'm very good at managing plugins Minecraft, Blockbench and Discord Manager.
 If you need help with Blockbench contact me and tell me what you need.
-The same thing for even paid plugins, or discord manager. Contact me and I'll let you know what I can do!</h3>
+The same thing for plugins and paid plugins, or discord manager. Contact me and I'll let you know what I can do!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexone08&label=Profile%20views&color=0e75b6&style=flat" alt="alexone08" /> </p>
 
