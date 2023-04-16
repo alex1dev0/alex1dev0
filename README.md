@@ -14,6 +14,8 @@ The same thing for plugins and paid plugins, or discord manager. Contact me and 
 
 - 📫 How to reach me **𝘼𝙇𝙀𝙓𝙊𝙉𝙀 💎#0001**
 
+- 🌐 What languages do i know? **I'm studying Spanish and English, but the ones I know very well are Italian and Romanian.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCY74oAkiBQ2VAYe0h3sszwQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexone._" height="30" width="40" /></a>
