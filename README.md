@@ -14,6 +14,8 @@ The same thing for plugins and paid plugins, or discord manager. Contact me and 
 
 - 📫 How to reach me **𝘼𝙇𝙀𝙓𝙊𝙉𝙀 💎#0001**
 
+- 🚧 My projects **Discord Verify Bot | Discord Role Bot**
+
 - 🌐 What languages do i know? **I'm studying Spanish and English, but the ones I know very well are Italian and Romanian.**
 
 <h3 align="left">Connect with me:</h3>
