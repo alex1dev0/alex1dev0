@@ -6,15 +6,15 @@ The same thing for plugins and paid plugins, or discord manager. Contact me and 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexone08&label=Profile%20views&color=0e75b6&style=flat" alt="alexone08" /> </p>
 
-- 🔭 I’m currently working on **DISCORD BOTS / MINECRAFT SERVERS**
+- 🔭 I’m currently working on: **DISCORD BOTS / MINECRAFT SERVERS**
 
-- 🌱 I’m currently learning **Java, HTML, Python**
+- 🌱 I’m currently learning: **Java, HTML, Python**
 
-- 💬 Ask me about **PLUGINS / DISCORD BOTS**
+- 💬 Ask me about: **PLUGINS / DISCORD BOTS**
 
-- 📫 How to reach me **𝘼𝙇𝙀𝙓𝙊𝙉𝙀 💎#0001**
+- 📫 How to reach me: **𝘼𝙇𝙀𝙓𝙊𝙉𝙀 💎#0001**
 
-- 🚧 My projects **Discord Verify Bot | Discord Role Bot**
+- 🚧 My projects: **Discord Verify Bot | Discord Role Bot**
 
 - 🌐 What languages do i know? **I'm studying Spanish and English, but the ones I know very well are Italian and Romanian.**
 
