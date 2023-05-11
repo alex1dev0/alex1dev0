@@ -12,16 +12,16 @@ The same thing for plugins and paid plugins, or discord manager. Contact me and 
 
 - 💬 Ask me about: **PLUGINS / DISCORD BOTS**
 
-- 📫 How to reach me: **𝘼𝙇𝙀𝙓𝙊𝙉𝙀 💎#0001**
+- 📫 How to reach me: **! Alexone 💎#0001**
 
-- 🚧 My projects: **Discord Verify Bot | Discord Role Bot**
+- 🚧 My projects: **IMB | Italian Moderation Bot** 
 
 - 🌐 What languages do i know? **I'm studying Spanish and English, but the ones I know very well are Italian and Romanian.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCY74oAkiBQ2VAYe0h3sszwQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexone._" height="30" width="40" /></a>
-<a href="https://discord.gg/8gSAgQdZNf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8gSAgQdZNf" height="30" width="40" /></a>
+<a href="https://discord.gg/e4vNv4SsAk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8gSAgQdZNf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
