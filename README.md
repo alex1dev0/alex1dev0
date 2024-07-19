@@ -1,20 +1,20 @@
 <h1 align="center">Hi, I'm Alex 💸</h1>
-<h3 align="center">Hi, I'm Mateo called Alex (for my friends) I'm a beginner programmer and I'm trying to learn, at least part of all languages, especially html.
+<h3 align="center">Hi, I'm Mateo called Alex (for my friends) I'm a beginner programmer and I'm trying to learn, at least part of all languages, especially lua and js.
 I'm very good at managing plugins Minecraft, Blockbench and Discord Manager.
-If you need help with Blockbench contact me and tell me what you need.
+If you need help with one of these contact me and tell me what you need.
 The same thing for plugins and paid plugins, or discord manager. Contact me and I'll let you know what I can do!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexone08&label=Profile%20views&color=0e75b6&style=flat" alt="alexone08" /> </p>
 
-- 🔭 I’m currently working on: **DISCORD BOTS / MINECRAFT SERVERS**
+- 🔭 I’m currently working on: **EDGE ROLEPLAY / AMETHYST MC**
 
-- 🌱 I’m currently learning: **Java, HTML, Python**
+- 🌱 I’m currently learning: **Lua, Js**
 
-- 💬 Ask me about: **PLUGINS / DISCORD BOTS**
+- 💬 Ask me about: **MC PLUGINS / DISCORD PROBLEMS AND SERVERS**
 
-- 📫 How to reach me: **! Alexone 💎#0001**
+- 📫 How to reach me: **alexxone**
 
-- 🚧 My projects: **IMB | Italian Moderation Bot** 
+- 🚧 My projects: **Light Project, LightShop Paradise, Amethyst MC, GalaxyLand (discontinued). etc...** 
 
 - 🌐 What languages do i know? **I'm studying Spanish and English, but the ones I know very well are Italian and Romanian.**
 
