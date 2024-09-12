@@ -14,7 +14,7 @@ The same thing for plugins and paid plugins, or discord manager. Contact me and 
 
 - 📫 How to reach me: **alexxone**
 
-- 🚧 My projects: **Light Project, LightShop Paradise, Amethyst MC, GalaxyLand (discontinued). etc...** 
+- 🚧 My projects: **Light Project, LightShop Paradise, Hollow MC, GalaxyLand (discontinued). etc...** 
 
 - 🌐 What languages do i know? **I'm studying Spanish and English, but the ones I know very well are Italian and Romanian.**
 
