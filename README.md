@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm <span style="color:#00BFFF;">Alex</span> 💸</h1>
 <p align="center">
-  <em>Also known as Mateo. I build things, fix chaos, and manage communities — one plugin or bot at a time.</em>
+  <em>Also known as Alex1Dev. I build things, fix chaos, and manage communities — one plugin or bot at a time.</em>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 - 🚀 **Stack**: Full-stack (frontend + backend)
 - 🌱 **Learning**: Constantly! Always playing with new tools and frameworks.
 - 🎮 **Community Work**: Minecraft servers, Discord bots, Plugin setups (paid & free)
-- 📫 **Discord**: `alexxone`
+- 📫 **Discord**: `alex1dev`
 
 ---
 
@@ -26,7 +26,7 @@
   <a href="https://discord.gg/e4vNv4SsAk" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://github.com/alexone08" target="_blank">
+  <a href="https://github.com/Alexone08" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -41,10 +41,10 @@
 ---
 
 ### 💼 Projects
-- ⚡ **Light Project**
-- 🛍️ **LightShop Paradise**
-- ☄️ **Hollow MC**
-- 🌌 **GalaxyLand** *(archived)*
+- ⚡ **ZNova**
+- 🛍️ **License System**
+- ☄️ **HollowMC**
+- 🌌 **Hollow Tickets** *(archived)*
 
 ---
 
