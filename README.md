@@ -1,30 +1,78 @@
-<h1 align="center">Hi, I'm Alex 💸</h1>
-<h3 align="center">Hi, I'm Mateo called Alex (for my friends) I'm a beginner programmer and I'm trying to learn, at least part of all languages, especially lua and js.
-I'm very good at managing plugins Minecraft, Blockbench and Discord Manager.
-If you need help with one of these contact me and tell me what you need.
-The same thing for plugins and paid plugins, or discord manager. Contact me and I'll let you know what I can do!</h3>
+<h1 align="center">Hey there, I'm Alex 💸</h1>
+<h3 align="center">Also known as Mateo — my friends call me Alex. I'm a passionate beginner programmer diving into Lua and JavaScript. I love building cool stuff, especially around Minecraft plugins, Blockbench models, and Discord server management.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexone08&label=Profile%20views&color=0e75b6&style=flat" alt="alexone08" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alexone08&label=Profile%20views&color=0e75b6&style=flat" alt="alexone08" /> </p>
 
-- 🔭 I’m currently working on: **EDGE ROLEPLAY / AMETHYST MC**
+---
 
-- 🌱 I’m currently learning: **Lua, Js**
+### 🚀 About Me
+- 🔭 Currently working on: **Edge Roleplay / Amethyst MC**
+- 🌱 Learning: **Lua, JavaScript**
+- 🎮 Specialized in: **Minecraft Plugins, Blockbench, Discord Bot & Server Management**
+- 💬 Ask me about: **Plugin setups, paid plugins, Discord configuration**
+- 📫 Reach me on Discord: **alexxone**
+- 🛠️ My projects:  
+  - **Light Project**  
+  - **LightShop Paradise**  
+  - **Hollow MC**  
+  - **GalaxyLand** *(discontinued)*
 
-- 💬 Ask me about: **MC PLUGINS / DISCORD PROBLEMS AND SERVERS**
+---
 
-- 📫 How to reach me: **alexxone**
+### 🌐 Languages I Speak
+- Fluent: **Italian, Romanian**
+- Learning: **English, Spanish**
 
-- 🚧 My projects: **Light Project, LightShop Paradise, Hollow MC, GalaxyLand (discontinued). etc...** 
+---
 
-- 🌐 What languages do i know? **I'm studying Spanish and English, but the ones I know very well are Italian and Romanian.**
-
-<h3 align="left">Connect with me:</h3>
+### 📡 Connect With Me
 <p align="left">
-<a href="https://www.youtube.com/channel/UCY74oAkiBQ2VAYe0h3sszwQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexone._" height="30" width="40" /></a>
-<a href="https://discord.gg/e4vNv4SsAk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8gSAgQdZNf" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@alexone_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/e4vNv4SsAk" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexone08&show_icons=true&locale=en" alt="alexone08" /></p>
+### 🧰 Tools & Languages
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+  </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
+  </a>
+  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexone08&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
