@@ -13,7 +13,7 @@
 - 🛠️ **Developer**: Web, Minecraft, Discord, Automation
 - 🚀 **Stack**: Full-stack (frontend + backend)
 - 🌱 **Learning**: Constantly! Always playing with new tools and frameworks.
-- 🎮 **Community Work**: Minecraft servers, Discord bots, Plugin setups (paid & free)
+- 🎮 **Community Work**: Minecraft servers, Discord bots, Websites (paid & free)
 - 📫 **Discord**: `alex1dev`
 
 ---
@@ -26,7 +26,7 @@
   <a href="https://discord.gg/e4vNv4SsAk" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://github.com/Alexone08" target="_blank">
+  <a href="https://github.com/alex1dev0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -57,5 +57,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexone08&label=Profile%20views&color=blue&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=alex1dev0&label=Profile%20views&color=blue&style=flat-square" alt="profile views" />
 </p>
