@@ -23,7 +23,7 @@
   <a href="https://www.youtube.com/@alexone_" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://discord.gg/e4vNv4SsAk" target="_blank">
+  <a href="https://ds.2devs.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/alex1dev0" target="_blank">
