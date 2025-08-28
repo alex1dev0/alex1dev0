@@ -44,7 +44,7 @@
 - ⚡ **BioWebsite**
 - 🛍️ **AlexSelfBot V1**
 - ☄️ **Portfolio Template**
-- 🌌 **Minecraft WebTemplate** *(archived)*
+- 🌌 **Minecraft WebTemplate**
 
 ---
 
