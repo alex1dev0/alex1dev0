@@ -42,7 +42,7 @@
 
 ### 💼 Projects
 - ⚡ **BioWebsite**
-- 🛍️ **AlexSelfBot V1**
+- 🛍️ **AlexoneSelfBot V1**
 - ☄️ **Portfolio Template**
 - 🌌 **Minecraft WebTemplate**
 
