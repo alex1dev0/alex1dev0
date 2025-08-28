@@ -49,10 +49,10 @@
 ---
 
 ### 🗣️ Languages I Speak
-- 🇮🇹 Italian (native)
-- 🇷🇴 Romanian (native)
-- 🇬🇧 English (learning)
-- 🇪🇸 Spanish (learning)
+- Italian (native)
+- Romanian (native)
+- English (learning)
+- Spanish (learning)
 
 ---
 
