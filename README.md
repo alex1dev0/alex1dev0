@@ -41,10 +41,10 @@
 ---
 
 ### 💼 Projects
-- ⚡ **ZNova**
-- 🛍️ **License System**
-- ☄️ **HollowMC**
-- 🌌 **Hollow Tickets** *(archived)*
+- ⚡ **BioWebsite**
+- 🛍️ **AlexSelfBot V1**
+- ☄️ **Portfolio Template**
+- 🌌 **Minecraft WebTemplate** *(archived)*
 
 ---
 
