@@ -41,10 +41,9 @@
 ---
 
 ### 💼 Projects
-- ⚡ **BioWebsite**
+- ⚡ **BioWebsiteV2 *(Coming soon...)***
 - 🛍️ **AlexoneSelfBot V1**
-- ☄️ **Portfolio Template**
-- 🌌 **Minecraft WebTemplate** *(Building It...)*
+- 🌌 **AIChat** *(Private Repository... For NOW)*
 
 ---
 
