@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm <span style="color:#00BFFF;">Alex</span> 💸</h1>
+<h1 align="center">Hey, Sono <span style="color:#00BFFF;">Alex</span> 💸</h1>
 <p align="center">
-  <em>Also known as Alex1Dev. I build things, fix chaos, and manage communities — one plugin or bot at a time.</em>
+  <em>Noto anche come Alex1Dev. Costruisco cose, risolvo i casini e gestisco community, un plugin o un bot alla volta.</em>
 </p>
 
 <p align="center">
@@ -9,16 +9,16 @@
 
 ---
 
-### 🧠 About Me
-- 🛠️ **Developer**: Web, Minecraft, Discord, Automation
+### 🧠 Chi sono?
+- 🛠️ **Developer**: Web, Minecraft, Discord, Automatizzazioni 
 - 🚀 **Stack**: Full-stack (frontend + backend)
-- 🌱 **Learning**: Constantly! Always playing with new tools and frameworks.
-- 🎮 **Community Work**: Minecraft servers, Discord bots, Websites (paid & free)
+- 🌱 **Learning**: Sempre! Provando nuovi framework e fork da usare nei miei progetti.
+- 🎮 **Community Work**: Minecraft servers, Discord bots, Websites (Pagati & Free)
 - 📫 **Discord**: `alex1dev`
 
 ---
 
-### 📡 Connect With Me
+### 📡 Contattami
 <p align="center">
   <a href="https://www.youtube.com/@alexone_" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -35,23 +35,23 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,php,js,react,nodejs,mongodb,mysql,python,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,php,js,react,nodejs,mysql,python" />
 </p>
 
 ---
 
-### 💼 Projects
-- ⚡ **BioWebsiteV2 *(Coming soon...)***
+### 💼 Progetti
+- ⚡ **Webcam AI tool**
 - 🛍️ **AlexoneSelfBot V1**
-- 🌌 **AIChat** *(Private Repository... For NOW)*
+- 🌌 **AIChat** *(Per ora repository privata...)*
 
 ---
 
-### 🗣️ Languages I Speak
-- Italian (native)
-- Romanian (native)
-- English (learning)
-- Spanish (learning)
+### 🗣️ Lingue
+- Italian (lingua madre)
+- Romanian (lingua madre)
+- English (studiando)
+- Spanish (studiando)
 
 ---
 
