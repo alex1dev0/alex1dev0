@@ -1,6 +1,6 @@
-<h1 align="center">Hey,  I'm <span style="color:#00BFFF;">Alex</span> <img src='IT@3x.png?raw=true' width='21' height='15'></h1>
+<h1 align="center">Hey,  I'm <span style="color:#00BFFF;">Alex</span> <img src='IT@3x.png?raw=true' width='35' height='25'></h1>
 <p align="center">
-  <em>Noto anche come Alex1Dev. Costruisco cose, risolvo i casini e gestisco community, un plugin o un bot alla volta.</em>
+  <em>Also known as Alex1Dev. I build things, fix bugs, and manage communities, one plugin or bot at a time.</em>
 </p>
 
 <p align="center">
@@ -9,21 +9,20 @@
 
 ---
 
-### 🧠 Chi sono?
-- 🛠️ **Developer**: Web, Minecraft, Discord, Automatizzazioni 
+### 🧠 Something about me
+- 🛠️ **Developer**: Web, Minecraft, Discord, Automations 
 - 🚀 **Stack**: Full-stack (frontend + backend)
-- 🌱 **Learning**: Sempre! Provando nuovi framework e fork da usare nei miei progetti.
-- 🎮 **Community Work**: Minecraft servers, Discord bots, Websites (Pagati & Free)
-- 📫 **Discord**: `alex1dev`
+- 🌱 **Learning**: Always! Trying new frameworks and languages, and don't forgot about linux distros.
+- 🎮 **Community Work**: Minecraft servers, Discord bots, Websites.
 
 ---
 
-### 📡 Contattami
+### 📡 Contact me
 <p align="center">
   <a href="https://www.youtube.com/@alexone_" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://ds.2devs.xyz" target="_blank">
+  <a href="<https://discord.com/users/661220836434247702>" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/alex1dev0" target="_blank">
@@ -40,18 +39,18 @@
 
 ---
 
-### 💼 Progetti
+### 💼 Some of my little projects
 - ⚡ **Webcam AI tool**
 - 🛍️ **AlexoneSelfBot V1**
 - 🌌 **AIChat** *(Per ora repository privata...)*
 
 ---
 
-### 🗣️ Lingue
-- Italian (lingua madre)
-- Romanian (lingua madre)
-- English (studiando)
-- Spanish (studiando)
+### 🗣️ Languages
+- Italian 
+- Romanian 
+- English
+- Spanish
 
 ---
 
