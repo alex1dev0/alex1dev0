@@ -1,4 +1,4 @@
-<h1 align="center">Hey,  I'm <span style="color:#00BFFF;">Alex</span> <img src='IT@x3.png?raw=true' width='21' height='15'></h1>
+<h1 align="center">Hey,  I'm <span style="color:#00BFFF;">Alex</span> <img src='IT@3x.png?raw=true' width='21' height='15'></h1>
 <p align="center">
   <em>Noto anche come Alex1Dev. Costruisco cose, risolvo i casini e gestisco community, un plugin o un bot alla volta.</em>
 </p>
