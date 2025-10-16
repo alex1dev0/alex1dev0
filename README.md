@@ -54,6 +54,12 @@
 
 ---
 
+### 💸 Donation
+If you would like to donate to support my career, you are free to do so but are not obligated.
+**Here is my link:** https://coff.ee/alex1dev
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alex1dev0&label=Profile%20views&color=blue&style=flat-square" alt="profile views" />
 </p>
