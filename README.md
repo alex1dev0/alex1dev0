@@ -42,7 +42,7 @@
 ### 💼 Some of my little projects
 - ⚡ **Webcam AI tool**
 - 🛍️ **AlexoneSelfBot V1**
-- 🌌 **AIChat** *(Per ora repository privata...)*
+- 🌌 **XenoAI**
 
 ---
 
