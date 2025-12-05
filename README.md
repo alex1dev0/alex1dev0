@@ -40,7 +40,7 @@
 ---
 
 ### 💼 Some of my little projects
-- <a href="https://github.com/alex1dev0/pinch-polygon">⚡ **Webcam AI tool**</a>
+- <a href="https://github.com/alex1dev0/pinch-polygon">⚡ **Pinch Polygon Tool**</a>
 - <a href="https://github.com/alex1dev0/alexoneselfbotv1">🛍️ **AlexoneSelfBot V1**</a>
 - <a href="https://github.com/alex1dev0/xenoai">🌌 **XenoAI**</a>
 - <a href="https://github.com/alex1dev0/readme-creator">👻 **README Creator** </a>
