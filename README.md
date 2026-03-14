@@ -1,66 +1,31 @@
-<h1 align="center">Hey,  I'm <span style="color:#00BFFF;">Alex</span> <img src='IT@3x.png?raw=true' width='35' height='25'></h1>
-<p align="center">
-  <em>Also known as Alex1Dev. I build things, fix bugs, and manage communities, one plugin or bot at a time.</em>
+<h1 align="left">Hey, I'm <span style="color:#00BFFF;">Mateo!</span> 👋</h1>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=alex1dev0&label=Profile%20views&color=blue&style=flat-square" alt="profile views"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=BBH+Sans+Hegarty&size=25&pause=1000&color=F7F7F7&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Full-Stack+Developer;Web-Developer;Bot%2FTool-Developer" alt="Typing SVG" />
-</p>
+I prefer to be called **Mateo**, but I'm also known online as **Matelex** or sometimes **“Madeo”**.
+
+I'm a **full-stack web developer** and a **detail-oriented web designer** focused on building clean, modern, and reliable products. I care about precision, performance, and visual quality so every project **looks great and works flawlessly**.
+
+Currently I attend an **economics school**. In my free time I work on web projects, explore new frameworks and Linux distros, go to the **gym**, and discuss ideas about **technology and business** with friends.  
+I can also communicate in **Romanian (C2)**, **English (C1)**, **Italian**, and **Spanish**.
 
 ---
 
-### 🧠 Something about me
-- 🛠️ **Developer**: Web, Minecraft, Discord, Automations 
-- 🚀 **Stack**: Full-stack (frontend + backend)
-- 🌱 **Learning**: Always! Trying new frameworks and languages, and don't forgot about linux distros.
-- 🎮 **Community Work**: Minecraft servers, Discord bots, Websites.
-
----
-
-### 📡 Contact me
-<p align="center">
-  <a href="https://www.youtube.com/@alexone_" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="<https://discord.com/users/661220836434247702>" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://github.com/alex1dev0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,react,tailwind,mysql,djs,git,vue,nextjs,threejs,bash,docker,flask,md,nodejs,opencv,php,sqlite,vite"/>
 </p>
 
 ---
 
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,php,js,react,nodejs,mysql,python" />
-</p>
-
----
-
-### 💼 Some of my little projects
-- <a href="https://github.com/alex1dev0/pinch-polygon">⚡ **Pinch Polygon Tool**</a>
-- <a href="https://github.com/alex1dev0/alexoneselfbotv1">🛍️ **SukunaPBot (Discord Selfbot)**</a>
-- <a href="https://github.com/alex1dev0/xenoai">🌌 **XenoAI**</a>
-- <a href="https://github.com/alex1dev0/readme-creator">👻 **README Creator** </a>
-
----
-
-### 🗣️ Languages
-- Italian 
-- Romanian 
-- English
-- Spanish
+[![instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/matelex0)
+[![discord](https://skillicons.dev/icons?i=discord&theme=light)](https://ds.matelex.it)
+[![gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:hi@matelex.it)
 
 ---
 
 ### 💸 Donation
-If you would like to donate to support my career, you are free to do so but are not obligated.
-- **Here is my link:** https://coff.ee/alex1dev
+If you would like to support my work, you can donate here (optional):
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alex1dev0&label=Profile%20views&color=blue&style=flat-square" alt="profile views" />
-</p>
+**https://coff.ee/alex1dev**
