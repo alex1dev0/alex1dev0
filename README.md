@@ -9,12 +9,12 @@ I prefer to be called **Mateo**, but I'm also known online as **Matelex** or som
 I'm a **full-stack web developer** and a **detail-oriented web designer** focused on building clean, modern, and reliable products. I care about precision, performance, and visual quality so every project **looks great and works flawlessly**.
 
 Currently I attend an **economics school**. In my free time I work on web projects, explore new frameworks and Linux distros, go to the **gym**, and discuss ideas about **technology and business** with friends.  
-I can also communicate in **Romanian (C2)**, **English (C1)**, **Italian**, and **Spanish**.
+I can also communicate in **Romanian (C2)**, , **Italian (C2)**, **English (C1)**, and **Spanish (B1)**.
 
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,react,tailwind,mysql,djs,git,vue,nextjs,threejs,bash,docker,flask,md,nodejs,opencv,php,sqlite,vite"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,react,tailwind,mysql,discordjs,git,vue,nextjs,threejs,bash,docker,flask,md,nodejs,opencv,php,sqlite,vite"/>
 </p>
 
 ---
