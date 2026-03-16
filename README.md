@@ -13,9 +13,27 @@ I can also communicate in **Romanian (C2)**, , **Italian (C2)**, **English (C1)*
 
 ---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,react,tailwind,mysql,discordjs,git,vue,nextjs,threejs,bash,docker,flask,md,nodejs,opencv,php,sqlite,vite"/>
-</p>
+[![icon](https://skillicons.dev/icons?i=html)](#)
+[![icon](https://skillicons.dev/icons?i=css)](#)
+[![icon](https://skillicons.dev/icons?i=js)](#)
+[![icon](https://skillicons.dev/icons?i=py)](#)
+[![icon](https://skillicons.dev/icons?i=react)](#)
+[![icon](https://skillicons.dev/icons?i=tailwind)](#)
+[![icon](https://skillicons.dev/icons?i=mysql)](#)
+[![icon](https://skillicons.dev/icons?i=discordjs)](#)
+[![icon](https://skillicons.dev/icons?i=git)](#)
+[![icon](https://skillicons.dev/icons?i=vue)](#)
+[![icon](https://skillicons.dev/icons?i=nextjs)](#)
+[![icon](https://skillicons.dev/icons?i=threejs)](#)
+[![icon](https://skillicons.dev/icons?i=bash)](#)
+[![icon](https://skillicons.dev/icons?i=docker)](#)
+[![icon](https://skillicons.dev/icons?i=flask)](#)
+[![icon](https://skillicons.dev/icons?i=md)](#)
+[![icon](https://skillicons.dev/icons?i=nodejs)](#)
+[![icon](https://skillicons.dev/icons?i=opencv)](#)
+[![icon](https://skillicons.dev/icons?i=php)](#)
+[![icon](https://skillicons.dev/icons?i=sqlite)](#)
+[![icon](https://skillicons.dev/icons?i=vite)](#)
 
 ---
 
