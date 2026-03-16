@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=alex1dev0&label=Profile%20views&color=blue&style=flat-square" alt="profile views"/>
 </p>
 
-I prefer to be called **Mateo**, but I'm also known online as **Matelex** or sometimes **“Madeo”**.
+I prefer to be called **Mateo**, but I'm also known online as **Matelex** or sometimes **“Alexone”**.
 
 I'm a **full-stack web developer** and a **detail-oriented web designer** focused on building clean, modern, and reliable products. I care about precision, performance, and visual quality so every project **looks great and works flawlessly**.
 
