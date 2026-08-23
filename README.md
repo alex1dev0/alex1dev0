@@ -10,7 +10,7 @@ I'm a **full-stack web developer** and a **detail-oriented web designer** focuse
 But the web doesn't stop me, so i can make even custom **sofware** to help your business. 
 
 Currently I attend an **economics school**. In my free time I work on web projects, explore new frameworks and Linux distros, go to the **gym**, and discuss ideas about **technology and business** with friends.  
-I can also communicate in **Romanian (C2)**, , **Italian (C2)**, **English (C1)**, and **Spanish (B1)**.
+I can also communicate in **Romanian (C2)**, , **Italian (C2)**, **English (B2)**, and **Spanish (A2)**.
 
 ---
 
